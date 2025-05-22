@@ -41,7 +41,7 @@ I’ll ignore it. Block it. Move on.
 
 - Don’t test me. I’m not interested in games.
 
-## 🧬 Tools You'll Find Here
+## Tools You'll Find Here
 
 Everything I share here serves a purpose —  
 Whether it’s defense, education, or chaos **with control**.
