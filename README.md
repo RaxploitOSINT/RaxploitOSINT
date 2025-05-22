@@ -24,7 +24,7 @@ Everything works as expected — or it gets deleted.
 
 ## My Purpose
 
-> **Protect people from cybercrimes.  
+> Protect people from cybercrimes.  
 > Fight for privacy.  
 > Defend digital freedom.
 
