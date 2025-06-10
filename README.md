@@ -33,9 +33,6 @@ I’ll ignore it. Block it. Move on.
 
 ## Rules
 
-- Don’t DM me just to say "Hello."  
-  Say what you need in **one message**, or be ignored.
-
 - Don’t ask stupid questions — Google exists.  
   I help people who help themselves.
 
