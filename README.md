@@ -1,4 +1,4 @@
-## ⚔️ KAIRON — Warrior for digital Freedom.
+## ⚔️ VEINER — Warrior for digital Freedom.
 
 Welcome to my GitHub.  
 I build, I break, I search.
@@ -49,4 +49,4 @@ Whether it’s defense, education, or chaos **with control**.
 Respect the code.  
 Respect the craft.**
 
-— `RAXPLOIT`
+— `VEINER`
